@@ -1,24 +1,4 @@
-# README
+ReFood
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+テーマ
+食品ロスを減らすために規格外商品、賞味期限が近い商品などを安価で購入できるサイト。
